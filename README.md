@@ -8,6 +8,8 @@ My name is Reed Nocera and I am a 14 year old Developer from NJ, United States.*
    - discord.js
    - Web Dev
 * Python
-* Java
+* JVM
+   - Java
+   - Kotlin
 * C++/C
 
